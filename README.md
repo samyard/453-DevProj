@@ -23,3 +23,10 @@ data dashboard. This includes aggregating the data from the
 blockchain, using the Solidity contract for data verification, 
 as well as launching the data dashboard and providing the user 
 with recommendations to possibly improve sustainability on campus.
+
+## DashPrototype.py
+  This file uses dash, which allows interactive data dashboards
+using only python, HTML/CSS is not necessary, though it is an option.
+This specific file uses sample code, and an unrelated, sample dataset
+just to show an example of how dash could be used to implement my
+described dashboard model.
