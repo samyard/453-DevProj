@@ -1,3 +1,10 @@
+//@custom:dev-run-script scripts/deploy_with_web3.ts
+    
+// SPDX-License-Identifier: UNLICENSED
+// Smart contract to verify blockchain data that will be ingested
+// into the data dashboard (using keccak256 hashing).
+
+
 pragma solidity ^0.8.0;
 
 contract SustainabilityData {
