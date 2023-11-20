@@ -7,7 +7,7 @@ suggestions will be created from the data blockchain that is
 verified and authenticated via a Solidity Smart Contract.
 
 ## DashContract.sol
-  A Solidity Smart Contrract that authenticates the data that 
+  A Solidity Smart Contract that authenticates the data that 
 is pulled from the blockchain. The data is verified by hashing 
 the sensor address supplied to the verifySensorData function, 
 using the solidity keccak256 cryptographic function.
