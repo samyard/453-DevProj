@@ -30,3 +30,8 @@ using only python, HTML/CSS is not necessary, though it is an option.
 This specific file uses sample code, and an unrelated, sample dataset
 just to show an example of how dash could be used to implement my
 described dashboard model.
+
+# Notes
+Some of these files only include pseudocode and are not ready to be implemented.
+This project outlines the needs for a data dashboard that ingests verified data
+from a data blockchain.
